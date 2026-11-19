@@ -1,2 +1,4 @@
 new text files
 so first we ahve to make github repo then we can connect form local to remote and then push
+kk
+
